@@ -1,3 +1,3 @@
-module application.com/m
+module application.com/m0
 
 go 1.19
